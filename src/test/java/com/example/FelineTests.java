@@ -7,7 +7,6 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class FelineTests {
-
     @Test
     public void getFamilyIsCorrect() {
         String expectedFelineFamilyName = "Кошачьи";
